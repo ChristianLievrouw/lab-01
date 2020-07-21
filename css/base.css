@@ -1,2 +1,12 @@
 @import "layout.css";
 @import "modular";
+
+* {
+  box-sizing: border-box;
+}
+
+div {
+  border: solid 1px black;
+  background-color: lightgray;
+  text-align: center;
+}
